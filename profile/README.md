@@ -11,7 +11,7 @@ The KovacTech community is building modern software, tools, and platforms togeth
 - Review open issues and discussions in each repository
 - Use repository issues for project-specific questions and bug reports (instead of direct email)
 
-Learn more about our ecosystem and technology at: **https://kovactech.com**
+Learn more about our ecosystem and technology at: **https://kovactech.ch**
 
 ---
 
