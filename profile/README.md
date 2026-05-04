@@ -58,8 +58,6 @@ Von ChatGPT-Integration über KI-Chatbots bis zur Prozessautomatisierung — wir
 | Projekt | Branche | Live |
 |---|---|---|
 | **[Vjeny](https://vjeny.com)** — Hochzeitsplattform Schweiz | Lifestyle / SaaS | [vjeny.com](https://vjeny.com) |
-| **[Rush Cars AG](https://www.rushcars.ch)** — Luxusautohaus Emmen Luzern | Premium Auto-Handel | [rushcars.ch](https://www.rushcars.ch) |
-| **[MB Mietwagen](https://www.mbmietwagen.ch)** — Mietwagen Pfäffikon | Mobilität | [mbmietwagen.ch](https://www.mbmietwagen.ch) |
 
 Mehr Referenzen und Case Studies: [kovactech.ch](https://kovactech.ch)
 
